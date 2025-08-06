@@ -20,8 +20,10 @@ This project consists of a custom implementation of the standard C `printf` func
 Compile with:
 
 ```bash
-gcc -Wall -Wextra -Werror -o ft_printf ft_printf.c```
-Then run your program linking with ft_printf or test it directly.
+gcc -Wall -Wextra -Werror -o ft_printf ft_printf.c
+```
+
+Then run your program linking with `ft_printf` or test it directly.
 
 ---
 
@@ -29,15 +31,13 @@ Then run your program linking with ft_printf or test it directly.
 
 This project helped me improve:
 
-Understanding of variadic arguments (va_list)
-
-Manual parsing of format strings
-
-Writing modular, reusable C code
-
-Careful memory and error management
+- Understanding of variadic arguments (`va_list`)  
+- Manual parsing of format strings  
+- Writing modular, reusable C code  
+- Careful memory and error management  
 
 ---
 
 ## License
+
 MIT License. See LICENSE file for details.
