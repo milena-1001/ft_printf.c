@@ -20,7 +20,7 @@ This project consists of a custom implementation of the standard C `printf` func
 Compile with:
 
 ```bash
-gcc -Wall -Wextra -Werror -o ft_printf ft_printf.c
+gcc -Wall -Wextra -Werror -o ft_printf ft_printf.c```
 Then run your program linking with ft_printf or test it directly.
 
 ---
